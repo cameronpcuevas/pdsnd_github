@@ -4,6 +4,21 @@
 
 This project explores bikeshare data for three US cities - Chicago, New York City, and Washington. It takes in input from the user and computes descriptive statistics based on the city and timeframe the user would like to explore.
 
+### Examples
+
+#### Prompt for the initial user input
+
+```
+Hello! Let's explore some US bikeshare data!
+What city would you like to analyze, Chicago, New York City, or Washington?
+```
+
+#### Prompt for the option to view raw data
+
+```
+Would you like to see 5 lines of raw data? Enter "yes" or "no".
+```
+
 ### Files used
 [bikeshare.py](https://github.com/cameronpcuevas/pdsnd_github/blob/master/bikeshare.py)
 
