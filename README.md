@@ -2,7 +2,7 @@
 
 ### Explore US Bikeshare Data
 
-This project explores bikeshare data for three US cities - Chicago, New York City, and Washington. It takes in input from the user and computes descriptive statistics based on the city and timeframe the user would like to explore.
+This project explores bikeshare data for three US cities - Chicago, New York City, and Washington. It takes in input from the user and computes descriptive statistics based on the city and timeframe the user would like to explore. It also gives the user the option to view the raw data, 5 lines at a time.
 
 ### Examples
 
