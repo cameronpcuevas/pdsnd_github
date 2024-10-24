@@ -14,5 +14,5 @@ This project explores bikeshare data for three US cities - Chicago, New York Cit
 [washington.csv](https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/b2d9b97a-1edc-4bcb-bb6e-593034076a11?lesson_tab=resources)
 
 ### Credits
-Udacity's Knowledge Q&A was consulted in the creation of this project.
+Udacity's [Knowledge Q&A](https://knowledge.udacity.com/) was consulted in the creation of this project.
 
